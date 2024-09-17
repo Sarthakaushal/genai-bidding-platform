@@ -1,0 +1,4 @@
+"fastapi[standard]"
+python-multipart
+pandas
+"tsfm_public[notebooks] @ git+https://github.com/ibm-granite/granite-tsfm.git@v0.2.9"
